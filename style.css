@@ -1,0 +1,24 @@
+body{
+    background: rgb(255, 0, 0);
+    text-align: center;
+}
+
+.header_div{
+    background-color: rgb(220, 11, 248);
+    font-family:  'Kaisei Decol', serif;
+}
+
+#startButton{
+    width: 120px;
+    font-weight: bolder;
+    background-color: rgb(0, 26, 255);
+    letter-spacing: 3px;
+    color: black;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    font-size: 18px;
+    text-shadow: 5px 5px 5px rgb(5,243,25);
+}
